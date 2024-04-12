@@ -1,0 +1,16 @@
+themes {
+    default {
+        fg "#6c696e"
+        bg "#c4c3c5"
+        black "#ffffff"
+        red "#d8137f"
+        green "#17ad98"
+        yellow "#dc8a0e"
+        blue "#775dff"
+        magenta "#aa17e6"
+        cyan "#149bda"
+        white "#6c696e"
+        orange "#d65407"
+    }
+}
+
