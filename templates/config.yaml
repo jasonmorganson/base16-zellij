@@ -1,2 +1,3 @@
 zellij:
   extension: .kdl
+  output: themes
