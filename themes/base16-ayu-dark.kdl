@@ -1,10 +1,10 @@
 themes {
     default {
         fg "#e6e1cf"
-        bg "#272d38"
-        black "#0f1419"
+        bg "#202229"
+        black "#0b0e14"
         red "#f07178"
-        green "#b8cc52"
+        green "#aad94c"
         yellow "#ffb454"
         blue "#59c2ff"
         magenta "#d2a6ff"
