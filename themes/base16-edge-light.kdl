@@ -5,12 +5,12 @@ themes {
         black "#fafafa"
         red "#db7070"
         green "#7c9f4b"
-        yellow "#d69822"
+        yellow "#ebcc1a"
         blue "#6587bf"
         magenta "#b870ce"
         cyan "#509c93"
         white "#5e646f"
-        orange "#db7070"
+        orange "#eba31a"
     }
 }
 

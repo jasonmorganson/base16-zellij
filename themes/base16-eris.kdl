@@ -4,13 +4,13 @@ themes {
         bg "#23255a"
         black "#0a0920"
         red "#f768a3"
-        green "#faaea2"
-        yellow "#faaea2"
+        green "#a2faa8"
+        yellow "#f7d668"
         blue "#258fc4"
-        magenta "#f768a3"
-        cyan "#258fc4"
+        magenta "#c368f7"
+        cyan "#a2faf0"
         white "#606bac"
-        orange "#f768a3"
+        orange "#f78968"
     }
 }
 
