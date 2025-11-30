@@ -1,7 +1,7 @@
 themes {
     default {
-        fg "#5e646f"
-        bg "#d69822"
+        fg "#474752"
+        bg "#acb1b9"
         black "#fafafa"
         red "#db7070"
         green "#7c9f4b"
@@ -9,7 +9,7 @@ themes {
         blue "#6587bf"
         magenta "#b870ce"
         cyan "#509c93"
-        white "#5e646f"
+        white "#474752"
         orange "#eba31a"
     }
 }

@@ -3,14 +3,14 @@ themes {
         fg "#f2f4f8"
         bg "#393939"
         black "#161616"
-        red "#3ddbd9"
-        green "#33b1ff"
-        yellow "#ee5396"
-        blue "#42be65"
+        red "#ee5396"
+        green "#42be65"
+        yellow "#ff6f00"
+        blue "#33b1ff"
         magenta "#be95ff"
-        cyan "#ff7eb6"
+        cyan "#3ddbd9"
         white "#f2f4f8"
-        orange "#78a9ff"
+        orange "#ff7eb6"
     }
 }
 
