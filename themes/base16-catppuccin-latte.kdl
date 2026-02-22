@@ -1,7 +1,7 @@
 themes {
     default {
         fg "#4c4f69"
-        bg "#bcc0cc"
+        bg "#ccd0da"
         black "#eff1f5"
         red "#d20f39"
         green "#40a02b"
